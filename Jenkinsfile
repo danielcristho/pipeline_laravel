@@ -1,6 +1,12 @@
 pipeline {
     agent none 
     stages {
+        stage('Change dir') {
+            steps {
+                sh 'cd /var/www/html/pipeline_laravel/'
+            }
+        }
+
         stage('Install Composer') {
             steps {
                 sh 'composer install'
