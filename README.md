@@ -1,7 +1,6 @@
 # Project Untuk Penugasan kelompok 2 - Deploy Laravel using Jenkins
 
-#### Build in jenkins via execute shell
-
+#### Build in jenkins
 
 ```yml
 cd /var/www/html/pipeline_laravel/ && composer install
