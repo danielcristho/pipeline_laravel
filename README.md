@@ -1,4 +1,4 @@
-# Project Untuk Penugasan kelompok 2
+# Project Untuk Penugasan kelompok 2 - Deploy Laravel using Jenkins
 
 #### Build manual via execute shell
 
