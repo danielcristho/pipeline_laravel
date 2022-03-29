@@ -1,4 +1,4 @@
-# Project Untuk Penugasan kelompok 2 - Deploy Laravel using Jenkins
+# Project kelompok 2 - Deploy Laravel using Jenkins
 
 #### Build in jenkins
 
